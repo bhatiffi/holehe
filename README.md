@@ -235,7 +235,7 @@ Built for educational purposes only.
 | wattpad             | wattpad.com                            | register          | ✔               |
 | wordpress           | wordpress                              | login             | ✘               |
 | xing                | xing.com                               | register          | ✘               |
-| xnxx                | xnxx.com                               | register          | ✔               |
+| xnxx                | xnxx.com                               |          |               |
 | xvideos             | xvideos.com                            | register          | ✘               |
 | yahoo               | yahoo.com                              | login             | ✔               |
 | zoho                | zoho.com                               | login             | ✔               |
